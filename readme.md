@@ -65,7 +65,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 <img src="images/kimpetras_home.png" alt="Screenshot website Kimpetras.com Home pagina">
-<img src="images/kimpetras_news.png" alt="Screenshot website Kimpetras.com News pagina">
+
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
 

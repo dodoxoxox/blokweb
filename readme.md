@@ -60,16 +60,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** <p>Surface plan</p>
 
-**Je opdracht:** <p>Wil graag deze website namaken
-<a href="https://kimpetras.com/">Kim Petras</a></p>
+**Je opdracht:** <p>Ik ga de website van mijn favoriete artiest, Kim Petras, na maken.
+<a href="https://kimpetras.com/">De website!</a></p>
 
 **Screenshot(s):**
 <img src="images/kimpetras_home.png" alt="Screenshot website Kimpetras.com Home pagina">
 <img src="images/kimpetras_news.png" alt="Screenshot website Kimpetras.com News pagina">
-(images/kimpetras_home.png)
-(images/kimpetras_news.png)
+
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
 
 **Breakdown-schets(en):**
-(images/breakdownschets.png)
+<img src="images/breakdownschets.png" alt="Breakdown schets van Kim Petras Website">
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
